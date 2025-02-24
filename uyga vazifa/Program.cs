@@ -205,7 +205,7 @@ class Bankomat
     }
     public void chekchqarish()
     {
-        Console.WriteLine("chek");
+        Console.WriteLine("cheks");
         Console.WriteLine(DateTime.Now);
         Console.WriteLine($"{qwert}pul yechildi");
     }
